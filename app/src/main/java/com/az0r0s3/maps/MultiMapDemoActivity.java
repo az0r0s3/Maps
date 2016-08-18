@@ -19,7 +19,7 @@ package com.az0r0s3.maps;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.mapdemo.R;
+import com.az0r0s3.maps.R;
 
 /**
  * This shows how to create a simple activity with multiple maps on screen.

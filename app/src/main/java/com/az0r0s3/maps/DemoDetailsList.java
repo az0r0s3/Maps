@@ -16,7 +16,7 @@
 
 package com.az0r0s3.maps;
 
-import com.example.mapdemo.R;
+import com.az0r0s3.maps.R;
 
 /**
  * A list of all the demos we have available.

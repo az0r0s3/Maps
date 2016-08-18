@@ -27,7 +27,7 @@ import android.support.v4.app.DialogFragment;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
-import com.example.mapdemo.R;
+import com.az0r0s3.maps.R;
 
 /**
  * Utility class for access to runtime permissions.

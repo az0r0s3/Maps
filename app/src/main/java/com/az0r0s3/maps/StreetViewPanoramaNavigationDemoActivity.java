@@ -16,7 +16,7 @@
 
 package com.az0r0s3.maps;
 
-import com.example.mapdemo.R;
+import com.az0r0s3.maps.R;
 import com.google.android.gms.maps.OnStreetViewPanoramaReadyCallback;
 import com.google.android.gms.maps.StreetViewPanorama;
 import com.google.android.gms.maps.SupportStreetViewPanoramaFragment;

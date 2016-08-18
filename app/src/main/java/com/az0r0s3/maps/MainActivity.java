@@ -30,7 +30,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
-import com.example.mapdemo.R;
+import com.az0r0s3.maps.R;
 
 /**
  * The main activity of the API library demo gallery.
