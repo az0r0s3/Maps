@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.1"
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.az0r0s3.maps"
-        minSdkVersion 22
-        targetSdkVersion 24
+        applicationId "com.example.mapdemo"
+        minSdkVersion 9
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }
@@ -22,10 +22,6 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:24.1.1'
-    compile 'com.google.android.gms:play-services:9.4.0'
+    compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.google.android.gms:play-services-maps:9.4.0'
-    compile 'com.google.android.gms:play-services-places:9.4.0'
-    compile 'com.google.android.gms:play-services-nearby:9.4.0'
-    compile project(':googlemapssdkm4b_lib')
 }
